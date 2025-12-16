@@ -1,5 +1,5 @@
 # Used-Car-Market-Analysis-and-prediction
-This is my firts project.
+This is my first project.
 <br>
-IN this, I have done the analysis of used car and makeing prediction through it.
+In this, I have done the analysis of used car and making prediction through it.
  
